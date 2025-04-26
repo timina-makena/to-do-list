@@ -18,8 +18,8 @@ const defaultTasks = [
     title: "Weekly Team Meeting",
     description: "Discuss project progress and how to go about assignments",
     priority: "high",
-    dueDate: "2025-04-30",
-    completed: false,
+    dueDate: "2025-04-26",
+    completed: true,
     createdAt: "2025-04-21T08:15:00Z"
   },
   {
@@ -36,8 +36,8 @@ const defaultTasks = [
     title: "Selfcare Maintainace day for my upcoming Birthday!",
     description: "Get my hair done plus pedicure and manicure",
     priority: "high",
-    dueDate: "2025-04-26",
-    completed: true,
+    dueDate: "2025-05-20",
+    completed: false,
     createdAt: "2025-04-19T11:20:00Z"
   },
   {
