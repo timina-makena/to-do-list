@@ -28,6 +28,10 @@ body {
   background-color: var(--background-color);
   color: var(--text-color);
   line-height: 1.6;
+  display: flex;          
+  justify-content: center; 
+  min-height: 100vh;      
+  margin: 0;              
   
 }
 
