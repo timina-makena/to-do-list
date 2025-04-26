@@ -230,7 +230,7 @@ button {
   padding: 8px;
   border: 1px solid var(--border-color);
   border-radius: 4px;
-  background-color: var(--white);
+  background-color: #4a6fa5;
 }
 
 .task-list {
