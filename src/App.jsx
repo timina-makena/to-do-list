@@ -7,7 +7,7 @@ const defaultTasks = [
   {
     id: 1,
     title: "Buy essentials",
-    description: "Go get a new phone case and silver jewelry",
+    description: "Go get a new phone case and some jewelry",
     priority: "high",
     dueDate: "2025-05-02",
     completed: false,
