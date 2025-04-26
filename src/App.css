@@ -221,6 +221,11 @@ button {
   color: var(--white);
 }
 
+.filter-button:hover {
+  background-color: #3F7D58;
+  color: white;
+}
+
 .task-sort {
   display: flex;
   align-items: center;
