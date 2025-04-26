@@ -8,7 +8,7 @@ const defaultTasks = [
     id: 1,
     title: "Buy essentials",
     description: "Go get a new phone case and some jewelry",
-    priority: "high",
+    priority: "medium",
     dueDate: "2025-05-02",
     completed: false,
     createdAt: "2025-04-20T10:30:00Z"
@@ -17,8 +17,8 @@ const defaultTasks = [
     id: 2,
     title: "Weekly Team Meeting",
     description: "Discuss project progress and how to go about assignments",
-    priority: "medium",
-    dueDate: "2025-04-26",
+    priority: "high",
+    dueDate: "2025-04-30",
     completed: false,
     createdAt: "2025-04-21T08:15:00Z"
   },
@@ -26,17 +26,17 @@ const defaultTasks = [
     id: 3,
     title: "Pay drivers license fee",
     description: "Old one expired, make sure it is renewed",
-    priority: "low",
+    priority: "medium",
     dueDate: "2025-05-05",
     completed: false,
     createdAt: "2025-04-22T14:45:00Z"
   },
   {
     id: 4,
-    title: "Selfcare Maintainace day",
+    title: "Selfcare Maintainace day for my upcoming Birthday!",
     description: "Get my hair done plus pedicure and manicure",
     priority: "high",
-    dueDate: "2025-04-27",
+    dueDate: "2025-04-26",
     completed: true,
     createdAt: "2025-04-19T11:20:00Z"
   },
