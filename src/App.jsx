@@ -44,7 +44,7 @@ const defaultTasks = [
     id: 5,
     title: "Work on client Website",
     description: "Look into modern styles which will go in line with the aesthetics",
-    priority: "medium",
+    priority: "high",
     dueDate: "2025-05-10",
     completed: false,
     createdAt: "2025-04-23T09:00:00Z"
