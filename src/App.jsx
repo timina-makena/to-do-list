@@ -84,7 +84,7 @@ function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Task Tracker</h1>
+        <h1>Mina's Task Tracker</h1>
         <p className="task-stats">
           {totalCount > 0 ? (
             <>Completed: {completedCount}/{totalCount} ({Math.round((completedCount / totalCount) * 100)}%)</>

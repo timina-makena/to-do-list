@@ -61,6 +61,7 @@ button {
   font-size: 2.5rem;
   color: var(--primary-color);
   margin-bottom: 10px;
+  color: #3F7D58;
 }
 
 .task-stats {
@@ -230,7 +231,7 @@ button {
   padding: 8px;
   border: 1px solid var(--border-color);
   border-radius: 4px;
-  background-color: #4a6fa5;
+  background-color: #3F7D58;
 }
 
 .task-list {
